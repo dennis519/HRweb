@@ -1,0 +1,26 @@
+.item .img-fulid{
+    width: 100%;
+}
+
+.jumbotron{
+    background: url(https://picsum.photos/1920/400?random=2) no-repeat center / cover;
+    margin-bottom: 0;
+}
+
+.path{
+    background-color: bisque;
+}
+
+.path .breadcrumb{
+    background-color: transparent;
+}
+
+.main-footer{
+    background-color: black;
+    color: cornsilk;
+    padding: 20px 0;
+}
+.navbar-brand{
+    background-color: darkgoldenrod;
+}
+
